@@ -10,7 +10,7 @@
 - 💬 Ask me about **C/C++, JavaScript, MERN**
 - 📫 How to reach me: [<2710rismi@gmail.com>](mailto:<2710rismi@gmail.com>)
 - 📄 Know about my experiences: [Resume](<https://drive.google.com/file/d/1dVminNfIGS3PDbJhXBBxp3G25fA4mvmO/view?usp=sharing>)
-- ⚡ Fun fact: <FUN_FACT>
+- ⚡ Fun fact: No fun only SUFFERING 😫
 
 ---
 
