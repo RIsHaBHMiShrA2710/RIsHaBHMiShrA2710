@@ -1,7 +1,4 @@
-<!-- 1. Banner -->
-<p align="center">
-  <img src="<BANNER_IMAGE_URL>" alt="banner" width="100%" />
-</p>
+
 
 <!-- 2. Intro -->
 <h1 align="center">Hi 👋, I’m Rishabh Mishra</h1>
@@ -18,22 +15,22 @@
 ---
 
 ### 📫 Connect with me
-<p align="center">
-  <a href="https://x.com/Rishabh_27_10)"><img src="https://img.shields.io/badge/Twitter-@<TWITTER_HANDLE>-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://www.linkedin.com/in/rishabhmishradev"><img src="https://img.shields.io/badge/LinkedIn-<YOUR_NAME>-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://rishabh2710.netlify.app/"><img src="https://img.shields.io/badge/Website-Visit-3080D0?logo=googlechrome&logoColor=white" alt="Website" /></a>
+<p align="left">
+  <a href="https://x.com/Rishabh_27_10"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="Twitter" height="40" width="40" margin="10" align= "center"/></a>
+  <a href="https://www.linkedin.com/in/rishabhmishradev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" margin="40" align= "center"/></a>
+  <a href="https://rishabh2710.netlify.app/"><img src="https://blog.animizer.net/wp-content/uploads/2023/06/5602732.png" alt="Website" height="40" width="40" margin="40" align= "center"/></a>
   <a href="https://leetcode.com/<YOUR_LEETCODE_USERNAME>">
-    <img src="https://img.shields.io/badge/LeetCode-RishabhMishra2710-FFA116?logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Badge" height="40" width="40" margin="40" align= "center"/>
   </a>
   <a href="https://www.codechef.com/users/rishabh2710">
-    <img src="https://img.shields.io/badge/CodeChef-<YOUR_CODECHEF_USERNAME>-2EC866?logo=codechef&logoColor=white" alt="CodeChef Badge"/>
+    <img src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" height="40" width="40" margin="40" align= "center" background="white" alt="CodeChef Badge"/>
   </a> 
 </p>
 
 ---
 
 ### 🛠 Languages and Tools
-<p align="center">
+<p align="left">
   <img alt="HTML5"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"     width="32" height="32"/>
   <img alt="CSS3"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"       width="32" height="32"/>
   <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" height="32"/>
@@ -51,7 +48,7 @@
 ### 📊 My GitHub Stats
 <p align="center">
   <!-- Top langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&theme=dark" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIsHaBHMiShrA2710&layout=compact&theme=dark" alt="Top Languages" width="49%" />
   <!-- overall stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=dark" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RIsHaBHMiShrA2710&show_icons=true&theme=dark" alt="GitHub Stats" width="49%" />
 </p>
