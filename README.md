@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ### 👨‍💻 CSE AI Graduate | Full Stack Developer | Data Engineering Enthusiast
+  ### 👨‍💻 CSE AI Graduate | Full Stack Developer | Gen AI & Data Engineering Enthusiast
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6CE5E8&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications;Exploring+Data+Engineering;MERN+Stack+Developer;C%2FC%2B%2B+Enthusiast" alt="Typing SVG" />
   
@@ -120,8 +120,6 @@ const rishabh = {
 </div>
 
 ---
-
-### 💭 Random Dev Quote
 
 <div align="center">
   
