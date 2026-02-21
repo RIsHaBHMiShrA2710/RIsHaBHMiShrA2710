@@ -23,7 +23,7 @@ const rishabh = {
     currentFocus: "Data Engineering",
     interests: ["Web Development", "DSA", "AI/ML"],
     techStack: {
-        frontend: ["React", "HTML5", "CSS3", "JavaScript"],
+        frontend: ["React", "JavaScript"],
         backend: ["Node.js", "Express"],
         databases: ["MongoDB", "PostgreSQL", "Neo4j"],
         languages: ["C", "C++", "JavaScript", "Python"]
@@ -42,8 +42,6 @@ const rishabh = {
 <div align="center">
 
 #### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -80,18 +78,16 @@ const rishabh = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RIsHaBHMiShrA2710&theme=tokyonight" alt="Repos Per Language" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RIsHaBHMiShrA2710&theme=tokyonight" alt="Most Commit Language" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RIsHaBHMiShrA2710&theme=tokyonight&exclude=html,css" alt="Repos Per Language" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RIsHaBHMiShrA2710&theme=tokyonight&exclude=html,css" alt="Most Commit Language" height="180em"/>
 </div>
-
-
 
 ---
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RIsHaBHMiShrA2710&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RIsHaBHMiShrA2710&theme=tokyonight&no-frame=false&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
 </div>
 
 ---
